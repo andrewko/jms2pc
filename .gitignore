@@ -1,6 +1,7 @@
-*.class
+.DS_Store
+target/
+bin/
+activemq-data/
+*.log
+*.epoch
 
-# Package Files #
-*.jar
-*.war
-*.ear
